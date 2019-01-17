@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.76b3e9bf.chunk.css",
-  "main.js": "/static/js/main.c29174c2.chunk.js",
-  "main.js.map": "/static/js/main.c29174c2.chunk.js.map",
-  "static/js/1.6c3b11d1.chunk.js": "/static/js/1.6c3b11d1.chunk.js",
-  "static/js/1.6c3b11d1.chunk.js.map": "/static/js/1.6c3b11d1.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.76b3e9bf.chunk.css.map": "/static/css/main.76b3e9bf.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.65d2807595b24bc5a9a4733d2a6c07a9.js": "/precache-manifest.65d2807595b24bc5a9a4733d2a6c07a9.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/interview-test_react-redux/static/css/main.76b3e9bf.chunk.css",
+  "main.js": "/interview-test_react-redux/static/js/main.7a65ad9e.chunk.js",
+  "main.js.map": "/interview-test_react-redux/static/js/main.7a65ad9e.chunk.js.map",
+  "static/js/1.6c3b11d1.chunk.js": "/interview-test_react-redux/static/js/1.6c3b11d1.chunk.js",
+  "static/js/1.6c3b11d1.chunk.js.map": "/interview-test_react-redux/static/js/1.6c3b11d1.chunk.js.map",
+  "runtime~main.js": "/interview-test_react-redux/static/js/runtime~main.1f57f0b4.js",
+  "runtime~main.js.map": "/interview-test_react-redux/static/js/runtime~main.1f57f0b4.js.map",
+  "static/css/main.76b3e9bf.chunk.css.map": "/interview-test_react-redux/static/css/main.76b3e9bf.chunk.css.map",
+  "index.html": "/interview-test_react-redux/index.html",
+  "precache-manifest.4e03b33964a2d898783b8391bc1c0143.js": "/interview-test_react-redux/precache-manifest.4e03b33964a2d898783b8391bc1c0143.js",
+  "service-worker.js": "/interview-test_react-redux/service-worker.js"
 }
