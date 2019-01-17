@@ -1,5 +1,6 @@
-!!Тестовое задание на React-redux
+#Тестовое задание на React-redux
 
+[Demo](https://teranich.github.io/interview-test_react-redux/)
 Необходимо разработать небольшое приложение на React+Redux.
 
 Приложение представляет собой список мероприятий с возможностью добавления и удаления.
@@ -14,3 +15,13 @@
 * Кнопку "-" невозможно кликнуть, пока не выбрано хотя бы одно мероприятие
 
 Важно! Redux-state должен максимально подробно хранить состояние приложения, ничего не должно храниться в состоянии компонентов.
+
+
+```sh
+$ git clone https://github.com/teranich/interview-test_react-redux.git
+$ cd interview-test_react-redux
+$ npm install 
+$ npm start
+```
+
+[Demo](https://teranich.github.io/interview-test_react-redux/)
